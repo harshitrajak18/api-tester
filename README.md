@@ -12,9 +12,6 @@ Loading indicator while request is being made
 
 Fully responsive and user-friendly UI
 
-🚀 Demo
-Live Demo <!-- Replace with your deployed link if available -->
-
 📁 Project Structure
 css
 Copy
